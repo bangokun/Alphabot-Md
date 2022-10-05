@@ -21,7 +21,7 @@ global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+global.language = english  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
@@ -32,10 +32,10 @@ global.myweb ="tiny.cc/Vamsess" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/iblis" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/ktgakuma" //bebas
 global.email = "chonixbotmd@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.region = "indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285738639969'] //premium user
-global.owner = ["6285738639969","6282250712553"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285738639969","6282250712553","6289508503105"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282250712553" // nomor wa kalian
 global.ownernomerr = "6285738639969" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
